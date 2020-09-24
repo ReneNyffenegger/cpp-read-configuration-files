@@ -1,0 +1,8 @@
+[section_1]
+foo  = bar
+water= h2o
+
+[section_2]
+foo  = foo
+water= wet
+four = 4.2
